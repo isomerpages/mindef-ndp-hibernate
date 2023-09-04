@@ -8,5 +8,5 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ndp2024banner2.jpg
+      background: /images/new banner.jpg
 ---
