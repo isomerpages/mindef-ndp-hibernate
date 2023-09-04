@@ -1,6 +1,6 @@
 title: Thank you for your Overwhelming Support for NDP 2023!
 url: https://ndp.gov.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/august 9 svg.svg
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -53,7 +53,7 @@ plugins:
 staging: https://staging.d1j88xoid2xj7c.amplifyapp.com
 prod: https://master.d1j88xoid2xj7c.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/august 9.png
 is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
