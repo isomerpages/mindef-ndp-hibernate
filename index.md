@@ -1,7 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Thank you for your Overwhelming Support for NDP 2023!
+description: We look forward to celebrating NDP 2024 with you! Stay tuned for
+  when this page relaunches.
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
