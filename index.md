@@ -8,5 +8,5 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/new banner.jpg
+      background: /images/webmaintenance.jpg
 ---
