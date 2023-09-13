@@ -12,5 +12,5 @@ sections:
       key_highlights:
         - title: Continue to Enjoy the NDP 2023 e-coupon here
           description: ""
-          url: "#"
+          url: https://divedeals.sg/gdm-ndpcoupons
 ---
