@@ -8,9 +8,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/webmaintenance.jpg
+      background: /images/NDP_UPDATED_WEBSITE_BANNER.jpg
       key_highlights:
-        - title: Continue to Enjoy the NDP 2023 e-coupon here
+        - title: Continue to enjoy the NDP 2024 E-Coupon here!
           description: ""
           url: https://divedeals.sg/gdm-ndpcoupons
 ---
