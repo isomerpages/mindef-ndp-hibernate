@@ -13,4 +13,5 @@ sections:
         - title: Continue to enjoy the NDP 2024 E-Coupon here!
           description: ""
           url: https://divedeals.sg/gdm-ndpcoupons
+      variant: image
 ---
