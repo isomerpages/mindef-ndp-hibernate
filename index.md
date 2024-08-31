@@ -14,4 +14,5 @@ sections:
           description: ""
           url: https://divedeals.sg/gdm-ndpcoupons
       variant: center
+      title: ""
 ---
