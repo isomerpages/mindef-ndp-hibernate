@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/NDP_Hibernation_Banner.png
+      background: /images/NDP_Hibernation_Banner_2.jpg
       key_highlights:
         - title: Continue to enjoy the NDP 2024 E-Coupon here!
           description: ""
