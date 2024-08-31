@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Thank you for your Overwhelming Support for NDP 2023!
-description: We look forward to celebrating NDP 2024 with you! Stay tuned for
+title: Thank you for the Overwhelming Support for NDP 2024!
+description: We look forward to celebrating NDP 2025 with you! Stay tuned for
   when this page relaunches.
 image: /images/august 9.png
 permalink: /
