@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://staging.d1eqirdbrjq0f3.amplifyapp.com
-prod: https://master.d1eqirdbrjq0f3.amplifyapp.com
+staging: https://staging-lite.djipm54x1o4t0.amplifyapp.com
+prod: https://master.d1j88xoid2xj7c.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/august 9.png
 is_government: true
