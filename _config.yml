@@ -2,13 +2,13 @@ title: Thank you for the Overwhelming Support for NDP 2024!
 url: https://ndp.gov.sg
 favicon: /images/august 9 svg.svg
 colors:
-  primary-color: "#fe091d"
-  secondary-color: "#4372d6"
+  primary-color: "#bc2327"
+  secondary-color: "#eb202c"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#211f1f"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#bc2327"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://staging.d1eqirdbrjq0f3.amplifyapp.com
-prod: https://master.d1eqirdbrjq0f3.amplifyapp.com
+staging: https://staging-lite.djipm54x1o4t0.amplifyapp.com
+prod: https://master.d1j88xoid2xj7c.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/august 9.png
 is_government: true
