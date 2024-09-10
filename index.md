@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: NDP 2024 E-Coupon
           description: ""
-          url: https://divedeals.sg/gdm-ndpcoupons
+          url: https://greendotmedia.com.sg/coupons/ndp
         - title: NDP 2024 Credits
           description: ""
           url: /ndp-2024-credits/
